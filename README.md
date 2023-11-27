@@ -3,6 +3,9 @@
 This is a fork of JCBrouwer's audioreactive latent interpolation with StyleGAN. I made this fork just to update some little side things that didn't work anymore. It could be that he also did update those things himself. 
 Please have a look at his work, it is amaing. 
 
+[Updated Colab Notebook](https://colab.research.google.com/drive/1_QA4Eu5fN-U_l3THb4OL5ibkrDyNVsZs?usp=sharing)
+
+
 It contains the code for [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/assets/audio-reactive-stylegan/paper.pdf) for the NeurIPS 2020 [Workshop on Machine Learning for Creativity and Design](https://neurips2020creativity.github.io/).
 
 The original base is [Kim Seonghyeon's excellent implementation](https://github.com/rosinality/stylegan2-pytorch), but I've gathered code from multiple different repositories or other places online and hacked/grafted it all together. License information for the code should all be in the LICENSE folder, but if you find anything missing or incorrect please let me know and I'll fix it immediately. Tread carefully when trying to distribute any code from this repo, it's meant for research and demonstration.
@@ -30,7 +33,7 @@ cd maua-stylegan2
 pip install -r requirements.txt
 ```
 
-Alternatively, check out this [Colab Notebook](https://colab.research.google.com/drive/1Ig1EXfmBC01qik11Q32P0ZffFtNipiBR)
+Alternatively, check out this [Colab Notebook](https://colab.research.google.com/drive/1_QA4Eu5fN-U_l3THb4OL5ibkrDyNVsZs?usp=sharing)
 
 ## Generating audio-reactive interpolations
 
