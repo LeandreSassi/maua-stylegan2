@@ -1,6 +1,7 @@
 # maua-stylegan2
 
-This is the repo for my experiments with StyleGAN2. There are many like it, but this one is mine.
+This is a fork of JCBrouwer's audioreactive latent interpolation with StyleGAN. I made this fork just to update some little side things that didn't work anymore. It could be that he also did update those things himself. 
+Please have a look at his work, it is amaing. 
 
 It contains the code for [Audio-reactive Latent Interpolations with StyleGAN](https://wavefunk.xyz/assets/audio-reactive-stylegan/paper.pdf) for the NeurIPS 2020 [Workshop on Machine Learning for Creativity and Design](https://neurips2020creativity.github.io/).
 
